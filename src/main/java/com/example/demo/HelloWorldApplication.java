@@ -16,5 +16,4 @@ public class HelloWorldApplication {
 		logger.debug("Welcome to spring concept demo");
 		SpringApplication.run(HelloWorldApplication.class, args);
 	}
-
 }
